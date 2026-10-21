@@ -1,5 +1,3 @@
-# Previous Findings Follow-up
-
 ## What this submission contains
 
 This repository is a product and technical design submission for an AI-assisted audit preparation workflow. It does not contain a working application or deployed AI pipeline. The proposal narrows the problem to follow-up on previous nonconformities: helping an auditor find and review submitted evidence before a surveillance or recertification audit.
